@@ -5,8 +5,8 @@ A lightweight **Paper/Folia** plugin that resets game arenas by replacing a Worl
 
 ## Dependencies
 
-| [FastAsyncWorldEdit (FAWE)](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) | ✅ |
-| [WorldGuard](https://dev.bukkit.org/projects/worldguard) | ✅ |
+| [FastAsyncWorldEdit (FAWE)](https://www.spigotmc.org/resources/fastasyncworldedit.13932/) |  |
+| [WorldGuard](https://dev.bukkit.org/projects/worldguard) |  |
 
 
 
